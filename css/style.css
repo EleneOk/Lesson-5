@@ -1,0 +1,161 @@
+.logo{
+	display: inline-block;
+	margin-right: 27px;
+	color:#FA6980;
+	vertical-align: middle;
+	font-weight: bold;
+}
+.navigation{
+	display:inline-block;
+	vertical-align: middle;
+}
+.nav-li{
+	display: inline-block;
+	vertical-align: middle;
+	padding: 30px;
+	top: 0;
+	left: 0;
+}
+.active{
+	color: black;
+	font-family: bold;
+}
+.section-after-header{
+	position:relative;
+	margin-top: 103px;
+}
+.header-wraper{
+	padding: 30px;
+	position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+.header_2{
+	text-align: left;
+	color:#202124;
+	margin-top: 25px;
+	width: 1025px;
+	height: 20px;
+	font-weight: bold;
+	font-size:24px;
+}
+.wraper-box{
+	margin-left:140px;
+	position: relative;
+}
+.picture{
+	position:relative;
+	margin-top: 40px;
+    margin-right: 40px;
+    width: 360px;
+    display: inline-block;
+    vertical-align: middle;
+    height: 360px;
+}
+.text-image{
+	position:absolute;
+	top: 20px;
+	left: 40px;
+	text-align: center;
+	color:white;
+}
+.under-image{
+	width: 360px;
+    height: 180px;
+    background-color: white;
+    margin-top: -3px;
+}
+.text-under-image{
+	width: 280px;
+	height: 38px;
+	color:#A6ADB4;
+	padding-top: 76px;
+	padding-left: 40px;
+	text-align: left;
+	font-size:13px;
+}
+.clock{
+	font-size: 13px;
+    color: #A6ADB4;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+.time-icon{
+    margin-left: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.time-section{
+	margin-top: 40px;
+}
+.left-block{
+	display: inline-block;
+	width: 760px;
+	margin-top: 40px;
+	margin-right: 40px;
+	position: relative;
+}
+.right-block{
+	display: inline-block;
+	vertical-align: top;
+	width: 360px;
+	margin-top: 40px;
+	position: relative;
+}
+.bridge{
+	margin-bottom: 40px;
+}
+.right-image{
+	margin-bottom: 102px;
+}
+.footer-section{
+	background-color: #A6ADB4;
+	display: block;
+	margin-top: 37px;
+}
+.footer-left{
+	display: inline-block;
+	margin-left: 142px;
+	margin-top: 56px;
+}
+.footer-logo{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 89px;
+	font-weight: bold;
+	color:#FFFFFF;
+}
+.footer-list{
+	display:inline-block;
+    width: 90px;
+    height: 84px;
+    margin-right: 70px;
+    color: #CBD0D3;
+    font-size: 13px;
+}
+.footer-middle{
+	display: inline-block;
+	width: 243px;
+	color: #CBD0D3;
+	font-size:11px;
+	vertical-align: top;
+	margin-top: 56px; 
+}
+.footer-right{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 56px;
+	width: 160px;
+	margin-left: 165px;
+}
+.footer-icon{
+	margin-right: 10px;
+}
+
+
+
+
+
+
